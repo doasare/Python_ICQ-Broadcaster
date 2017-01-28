@@ -18,7 +18,7 @@ Usage example::
     If you want send messages from file:
         python main.py -u <UIN> -p <PASSWORD> --messages-file <path to messages.txt>
 
-parameters::
+parameters:
 
 	--user  			required=true 
 	--password  		required=true
